@@ -2,7 +2,7 @@
 
 ENABLED=yes
 PROCS=zmp-linux-mipsle
-ARGS="--host 192.168.0.1 --port 7171 --best --rosnd --rosua \"ru.rt.video.player.hls.HlsWinkPlayer\" /opt/etc/zmp/playlist.m3u8"
+ARGS="--host 192.168.0.1 --port 7171 --best --rosnd --rosua \"SmartSDK\" /opt/etc/zmp/playlist.m3u8"
 PREARGS=""
 DESC=$PROCS
 PATH=/opt/sbin:/opt/bin:/opt/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
